@@ -15,6 +15,9 @@ The project focuses on layout structure, responsive design, and clean UI present
 - Font Awesome
 - Google Fonts (Roboto)
 
+## Screenshots
+| Desktop | Mobile |
+| ![Desktop View](desktop.png) | ![Mobile View](mobile.png) |
 
 
 ## Notes
